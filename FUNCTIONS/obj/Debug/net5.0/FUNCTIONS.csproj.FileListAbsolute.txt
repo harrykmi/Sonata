@@ -1,0 +1,16 @@
+C:\Users\Hari\FUNCTIONS\bin\Debug\net5.0\FUNCTIONS.exe
+C:\Users\Hari\FUNCTIONS\bin\Debug\net5.0\FUNCTIONS.deps.json
+C:\Users\Hari\FUNCTIONS\bin\Debug\net5.0\FUNCTIONS.runtimeconfig.json
+C:\Users\Hari\FUNCTIONS\bin\Debug\net5.0\FUNCTIONS.runtimeconfig.dev.json
+C:\Users\Hari\FUNCTIONS\bin\Debug\net5.0\FUNCTIONS.dll
+C:\Users\Hari\FUNCTIONS\bin\Debug\net5.0\ref\FUNCTIONS.dll
+C:\Users\Hari\FUNCTIONS\bin\Debug\net5.0\FUNCTIONS.pdb
+C:\Users\Hari\FUNCTIONS\obj\Debug\net5.0\FUNCTIONS.csprojAssemblyReference.cache
+C:\Users\Hari\FUNCTIONS\obj\Debug\net5.0\FUNCTIONS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hari\FUNCTIONS\obj\Debug\net5.0\FUNCTIONS.AssemblyInfoInputs.cache
+C:\Users\Hari\FUNCTIONS\obj\Debug\net5.0\FUNCTIONS.AssemblyInfo.cs
+C:\Users\Hari\FUNCTIONS\obj\Debug\net5.0\FUNCTIONS.csproj.CoreCompileInputs.cache
+C:\Users\Hari\FUNCTIONS\obj\Debug\net5.0\FUNCTIONS.dll
+C:\Users\Hari\FUNCTIONS\obj\Debug\net5.0\ref\FUNCTIONS.dll
+C:\Users\Hari\FUNCTIONS\obj\Debug\net5.0\FUNCTIONS.pdb
+C:\Users\Hari\FUNCTIONS\obj\Debug\net5.0\FUNCTIONS.genruntimeconfig.cache
